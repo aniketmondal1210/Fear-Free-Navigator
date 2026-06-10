@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+networkx
+osmnx
+scipy
+pydantic
+requests
+numpy
+pandas
